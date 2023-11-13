@@ -13,7 +13,7 @@
     "build:client": "vite build --mode client",
     "preview": "vite preview",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx ./src",
-    "build": "netlify deploy --prod"
+    "start": "page-spy-api"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.19.1",
